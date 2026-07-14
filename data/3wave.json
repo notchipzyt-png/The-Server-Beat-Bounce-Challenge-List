@@ -1,0 +1,18 @@
+{
+    "id": 2808993,
+    "name": "3wave",
+    "author": "Not_ChipsAboyGhast",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/1NSO3ihuqAE?si=j6D1LWqkEn_MZwm5",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "Maple",
+            "link": "https://youtu.be/chkEy1bTMCY?is=3lfIQAd4z1Y6SYLh",
+            "percent": 100,
+            "hz": 240
+    }
+    ]
+}
